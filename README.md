@@ -43,3 +43,14 @@ This Python program creates a digital clock GUI with a toggle button to switch b
 
 ```python
 python digital_clock.py
+```
+*convert to programme laptop*
+```
+1-pip3 install PyInstaller
+2-pyinstaller -w app.py
+# or
+pyinstaller --windowed app.py
+# or
+pyinstaller --noconsole app.py
+or
+pyinstaller --onefile -w l.py```
