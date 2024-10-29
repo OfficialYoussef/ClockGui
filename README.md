@@ -54,3 +54,6 @@ pyinstaller --windowed app.py
 pyinstaller --noconsole app.py
 or
 pyinstaller --onefile -w l.py```
+```
+#### tutorial
+[Link text Here](https://www.pythonguis.com/tutorials/packaging-tkinter-applications-windows-pyinstaller/)
