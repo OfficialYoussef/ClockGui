@@ -29,13 +29,12 @@ This Python program creates a digital clock GUI with a toggle button to switch b
 
 ## How to Use
 ![Screenshot from 2024-10-29 10-49-19](https://github.com/user-attachments/assets/baabf00b-5ecd-4bf7-819c-9304499a3e9e)
-
+### `font.ttf`: Install font on your laptop
 1. Ensure the following images are in an `img` folder within the working directory:
    - `digital-clock.png`: Clock icon
    - `sun(1).png`: Icon for light mode
    - `sun(3).png`: Icon for dark mode
-   - `font.ttf`: Install font on your laptop
-
+   
 2. Run the script. The digital clock will appear with the current time and an icon in the top left for theme toggling.
 
 3. Click the icon to switch between day and night themes.
